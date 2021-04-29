@@ -1,0 +1,25 @@
+[
+    {
+        "name": "monster",
+        "totalHP": 56,
+        "ac": 16,
+        "stats": {
+            "str": 0,
+            "dex": 1,
+            "con": 1,
+            "wis": 3,
+            "int": 2,
+            "cha": -1
+        }, 
+        "attacks": [
+            {
+                "weapon": "shortbow",
+                "toHit": 7,
+                "damageDie": 6,
+                "numDice": 1, 
+                "damageMod":5 
+            }
+        ],
+        "isEnemy": true
+    }
+]
